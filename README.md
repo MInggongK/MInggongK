@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on information security related work
 - 🌱 I'm currently working on technologies that I think are useful
-- 👯 I'm looking to collaborate on risk assessments related to security projects, not limited to web security, and currently have exposure to the web3 industry
+- 👯 I'm looking to collaborate on risk assessments related to security projects, not limited to web security
 - 🤔 I'm looking for help with no need for assistance at the moment
 - 💬 Ask me about... If you have any questions, feel free to ask
 - 📫 How to reach me: Temporarily confidential
