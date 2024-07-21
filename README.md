@@ -3,7 +3,7 @@
 - 🔭 I am currently working in the field of brick moving
 - 🌱 I'm currently working on technologies that I think are useful
 - 👯 I'm looking to collaborate on risk assessments related to security projects, not limited to web security
-- 👯 I have gained exposure to and understanding of web3 related technologies，I believe that the future trend of web3 will be even greater
+- 👯 I have gained exposure to and understanding of web3 related technologies
 - 🤔 I'm looking for help with no need for assistance at the moment
 - 💬 Ask me about... If you have any questions, feel free to ask
 - 📫 How to reach me: Temporarily confidential
