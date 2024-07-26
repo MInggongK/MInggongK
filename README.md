@@ -19,8 +19,6 @@
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=MInggongK&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MInggongK&layout=compact&theme=tokyonight)
-
 
 
 
