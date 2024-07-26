@@ -15,9 +15,8 @@
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MInggongK&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
-<div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=MInggongK" />
-</div>
+![](https://i-blog.csdnimg.cn/blog_migrate/d9ccf87267393a1cc2cb676ddb2b2570.png)![](https://i-blog.csdnimg.cn/blog_migrate/9b73fd0031a9df560c4d8d39640546bc.png)![](https://i-blog.csdnimg.cn/blog_migrate/d555082e24c985f745dab86ea58b46b6.png)
+
 
 <div align="center">
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MInggongK&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
