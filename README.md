@@ -19,7 +19,6 @@
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MInggongK" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MInggongK&layout=compact&theme=tokyonight)
 
 
 
