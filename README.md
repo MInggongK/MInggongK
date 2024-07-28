@@ -19,6 +19,8 @@
 
 <img align="center" src="https://skillicons.dev/icons?i={MInggongK}&theme=light" />
 
+<img src="https://komarev.com/ghpvc/?username={MInggongK}&abbreviated=true" />
+
 
 
 
