@@ -17,7 +17,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<img align="center" src="https://skillicons.dev/icons?i={MInggongK}&theme=light" />
 
 
 
