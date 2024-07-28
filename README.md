@@ -17,9 +17,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="center" src="https://skillicons.dev/icons?i={MInggongK}&theme=light" />
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MInggongK" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username={MInggongK}&abbreviated=true" />
+
 
 
 
