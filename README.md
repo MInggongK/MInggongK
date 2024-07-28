@@ -19,6 +19,8 @@
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MInggongK" />
 </div>
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=MInggongK&theme=dracula)
+
 
 
 
