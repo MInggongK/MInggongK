@@ -19,6 +19,7 @@
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MInggongK" />
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/MInggongK/count.svg)
 
 
 
