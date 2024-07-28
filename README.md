@@ -15,10 +15,6 @@
 	<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MInggongK&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi there}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm just a bricklayer}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
 
