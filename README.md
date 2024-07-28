@@ -21,7 +21,7 @@
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=MInggongK&theme=dracula)
 
-
+<img align='center'src="https://github-readme-stats.vercel.app/api/wakatime?username=MInggongK"/> 
 
 
 
