@@ -12,6 +12,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MInggongK&show_icons=true&theme=radical)
 
+<div align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MInggongK&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
