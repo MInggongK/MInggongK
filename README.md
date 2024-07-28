@@ -10,11 +10,11 @@
 - ⚡ Fun fact: The joy of traveling
 - 😄 hobby:Piano, photography, cuisine, travel
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MInggongK&show_icons=true&theme=radical)
+- 
+![](https://github-readme-stats.vercel.app/api?username=MInggongK&show_icons=true&theme=transparent)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=MInggongK&theme=dracula)
 
 
 
