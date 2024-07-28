@@ -17,7 +17,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={MInggongK}&theme=github-compact&hide_border=true&area=true" />
+
 
 
 
