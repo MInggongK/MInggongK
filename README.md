@@ -15,13 +15,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MInggongK" />
-</div>
 
-<div align="center">
-	<img src="https://i-blog.csdnimg.cn/blog_migrate/88f8bc95eef8131bfa1880ca166a6658.png">
-</div>
 
 ![](https://stats.justsoni.cn/Rpi/cadn?id=MInggongK)https://i-blog.csdnimg.cn/blog_migrate/88f8bc95eef8131bfa1880ca166a6658.png)]
 
