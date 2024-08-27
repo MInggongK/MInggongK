@@ -10,12 +10,9 @@
 - ⚡ Fun fact: The joy of traveling
 - 😄 hobby:Piano, photography, cuisine, travel
 
-- 
 
+ ![](https://github-readme-stats.vercel.app/api?username=MInggongKe&show_icons=true&theme=transparent)
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MInggongK&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
-                
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
