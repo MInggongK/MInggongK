@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm zhe.
 
-- 🔭 I am currently working in the field of information security
+- 🔭 I am currently working in the field of brick moving and infiltration
 - 🌱 I'm currently working on technologies that I think are useful
 - 👯 I'm looking to collaborate on risk assessments related to security projects, not limited to web security
 - 🤔 I'm looking for help with no need for assistance at the moment
