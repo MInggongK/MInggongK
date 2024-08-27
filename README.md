@@ -13,7 +13,7 @@
 - 
 
 
-![](https://github-readme-stats.vercel.app/api?username=MInggongK&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MInggongK&show_icons=true&theme=transparent)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
