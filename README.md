@@ -15,6 +15,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MInggongK)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=MInggongK&theme=xcode" />
+</div>
 
 
 
